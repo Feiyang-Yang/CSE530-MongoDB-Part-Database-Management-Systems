@@ -1,0 +1,5 @@
+{"key":"value","id":"test2:0"}
+	
+{"embedded":{"key2":"value2"},"id":"test2:1"}
+	
+{"array":["one","two","three"],"id":"test2:2"}
